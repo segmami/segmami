@@ -16,8 +16,8 @@ Obtenir un stage en IA / Data afin de participer à un projet réel : préparati
 ##  Projets
 ### 📚 Biblio Manager Pro (Web)
 Application web de gestion de bibliothèque : ajout, recherche et suppression de livres, avec une interface simple.  
-Repo : https://github.com/segmami/biblio-manager-pro
-Démo : https://segmami.github.io/biblio-manager-pro/
+- Repo : https://github.com/segmami/biblio-manager-pro
+- Démo : https://segmami.github.io/biblio-manager-pro/
 
 
 ### 🔥 Calories Burn Detection (IA / Data)
