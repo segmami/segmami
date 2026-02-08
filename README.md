@@ -23,4 +23,4 @@ Projet IA / data : estimation des calories brûlées à partir de données d’a
 
 ##  Contact
 - GitHub : https://github.com/segmami
-- Site web : https://
+- Site web : https://segmami.github.io/
