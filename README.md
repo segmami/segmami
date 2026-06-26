@@ -1,28 +1,44 @@
-# 👋 Bonjour, je suis Asmaa SEGMAMI
+# Bonjour, je suis Asmaa Segmami
 
-Étudiante en **intelligence artificielle (IA)**, je développe des projets pour apprendre à construire des solutions utiles avec une démarche claire : comprendre le besoin, implémenter, tester et améliorer.
+Diplômée en **intelligence artificielle (IA)**, je développe des projets pour construire des solutions utiles avec une démarche claire : comprendre le besoin, implémenter, tester et améliorer.
 
-## Objectif
-
-Renforcer mes compétences en **IA / Data** et en **développement web**.
-Obtenir un stage en IA / Data afin de participer à un projet réel : préparation de données, entraînement de modèles et analyse des résultats.
+##  Objectif
+Renforcer mes compétences en **IA / Data** et en **développement web intelligent**.
+Participer à un projet réel en IA / Data : préparation de données, entraînement de modèles et analyse des résultats.
 
 ##  Compétences
 
-- **IA / Data** : préparation de données, analyse, entraînement et évaluation de modèles 
-- **Web** : HTML / CSS / JavaScript
-- **Outils** : Git & GitHub (issues, branches, pull requests, commits)
+**Intelligence artificielle**
+- Machine Learning : régression, classification, clustering
+- Deep Learning : réseaux de neurones (bases)
+- Traitement du langage naturel (NLP) : analyse de texte, extraction d'informations
+- Évaluation de modèles : métriques, validation, amélioration des performances
 
+**Data**
+- Préparation et nettoyage de données
+- Analyse exploratoire et visualisation
+- Entraînement et évaluation de modèles
+
+**Développement web**
+- Conception d'applications web intégrant l'IA
+
+**Outils**
+- Langages : Python, SQL
+- IA / Data : Pandas, NumPy, Scikit-learn, Matplotlib
+- Environnements : Jupyter, Google Colab, VS Code
+- Versioning : Git & GitHub (issues, branches, pull requests, commits)
+- 
 ##  Projets
-### 📚 Biblio Manager Pro (Web)
-Application web de gestion de bibliothèque : ajout, recherche et suppression de livres, avec une interface simple.  
-- Repo : https://github.com/segmami/biblio-manager-pro
-- Démo : https://segmami.github.io/biblio-manager-pro/
 
+### ProfMatchAI
+🔗 https://github.com/YvanJaures/ProfMatchAI
 
-### 🔥 Calories Burn Detection (IA / Data)
-Projet IA / data : estimation des calories brûlées à partir de données d’activité.  
+Plateforme intelligente d'affectation des professeurs aux cours.
+ProfMatchAI automatise et optimise le processus de recrutement des professeurs : un algorithme de scoring calcule les compatibilités entre professeurs et cours, et l'intelligence artificielle analyse les CV, enrichit les profils et génère des justifications en langage naturel pour aider le service RH dans ses décisions d'affectation.
+
+**IA mobilisée** : scoring de compatibilité, analyse de CV (NLP), génération de texte explicatif.
+
 
 ##  Contact
-- GitHub : https://github.com/segmami
+- LinkedIn : https://www.linkedin.com/in/asmaa-segmami/
 - Site web : https://segmami.github.io/
