@@ -27,7 +27,7 @@ Participer à un projet réel en IA / Data : préparation de données, entraîne
 - IA / Data : Pandas, NumPy, Scikit-learn, Matplotlib
 - Environnements : Jupyter, Google Colab, VS Code
 - Versioning : Git & GitHub (issues, branches, pull requests, commits)
-- 
+  
 ##  Projets
 
 ### ProfMatchAI
